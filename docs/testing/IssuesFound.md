@@ -36,4 +36,4 @@ Checkout button required better visibility.
 
 Status
 
-Resolved
+Resolved.
