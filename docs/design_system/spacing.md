@@ -26,4 +26,4 @@ Spacing Values
 
 Usage
 
-Consistent spacing is maintained between all UI elements for better readability and user experience.
+Consistent spacing is maintained between all UI elements for better readability and user experience of users.
