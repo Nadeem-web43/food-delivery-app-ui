@@ -24,4 +24,4 @@ The user flow illustrates the journey a user follows while using the Food Delive
 12. Confirm Order
 13. Track Order
 14. View Order History
-15. Logout
+15. Logout.
