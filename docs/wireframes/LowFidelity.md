@@ -22,4 +22,4 @@ Low-fidelity wireframes are simple sketches used during the early design phase.
 
 - Plan the screen layout
 - Arrange content
-- Define user flow
+- Define user flow.
