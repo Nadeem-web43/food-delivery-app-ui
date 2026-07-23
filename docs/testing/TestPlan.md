@@ -34,4 +34,4 @@ The purpose of testing is to evaluate the usability, functionality, and user exp
 
 ## Expected Result
 
-Users should be able to complete food ordering quickly and easily without confusion.
+Users should be able to complete food ordering quickly and easily without confusions.
