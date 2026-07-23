@@ -32,4 +32,4 @@ Reusable Components
 
 15. Coupon Card
 
-16. Notification Card
+16. Notification Card.
