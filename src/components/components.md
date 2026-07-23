@@ -62,4 +62,4 @@ Confirmation and success pop-up dialogs.
 
 ## Purpose
 
-These components are reused across multiple screens to provide a consistent user experience.
+These components are reused across multiple screens to provide a consistency of user experience.
