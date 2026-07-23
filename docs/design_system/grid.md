@@ -26,4 +26,4 @@ Stretch
 
 Purpose
 
-Maintain proper alignment and responsive layout throughout the application.
+Maintain proper alignment and responsive layout throughout the application process.
