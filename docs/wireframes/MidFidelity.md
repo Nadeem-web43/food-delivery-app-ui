@@ -10,4 +10,4 @@ Mid-fidelity wireframes include proper spacing, buttons, navigation, and placeho
 - Improved navigation
 - Defined buttons
 - Organized sections
-- Consistent spacing
+- Consistent spacing.
