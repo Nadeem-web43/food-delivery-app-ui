@@ -51,4 +51,4 @@ Contains Icons
 Used for:
 Search
 Favourite
-Profile
+Profile.
