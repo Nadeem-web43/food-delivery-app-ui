@@ -274,5 +274,4 @@ This project is licensed under the MIT License.
 
 # ⭐ Acknowledgements
 
-Special thanks to **CodeZoner** for providing the UI/UX internship roadmap and guidance that helped shape this project.
-thank you
+Special thanks to **CodeZoner** for providing the UI/UX internship roadmap and guidance that helped shape this project aijaqijai
