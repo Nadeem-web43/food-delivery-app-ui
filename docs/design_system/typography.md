@@ -67,4 +67,4 @@ Button Text
 
 Size : 16 px
 
-Weight : Semi Bold
+Weight : Semi Bold.
