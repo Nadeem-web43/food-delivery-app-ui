@@ -13,4 +13,4 @@ Suggested Improvements
 
 - Add dark mode.
 - Include voice search.
-- Improve accessibility.
+- Improve accessibilities.
