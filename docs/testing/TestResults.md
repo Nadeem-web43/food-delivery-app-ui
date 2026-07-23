@@ -15,4 +15,4 @@
 
 ## Overall Result
 
-The application successfully completed all planned usability tests.
+The application successfully completed all planned usability test.
