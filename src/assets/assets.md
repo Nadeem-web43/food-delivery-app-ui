@@ -82,4 +82,4 @@ SVG
 
 ## Purpose
 
-These assets improve the visual appearance of the application and create a modern user experience.
+These assets improve the visual appearance of the application and create a modern user experience of UI/UX
