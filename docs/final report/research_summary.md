@@ -8,4 +8,4 @@ Key Findings
 - Fast checkout improves user satisfaction.
 - Large food images increase engagement.
 - Live order tracking is an essential feature.
-- Personalized recommendations improve user experience.
+- Personalized recommendations to improve user experience.
