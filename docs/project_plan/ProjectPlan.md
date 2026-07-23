@@ -157,4 +157,4 @@ To design a modern, user-friendly Food Delivery mobile application using the com
 
 ✔ GitHub Repository
 
-✔ README Documentation
+✔ README Documentation.
