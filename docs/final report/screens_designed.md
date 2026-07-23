@@ -14,4 +14,4 @@ The application includes the following screens:
 - Payment
 - Order Tracking
 - Profile
-- Settings
+- Settings.
