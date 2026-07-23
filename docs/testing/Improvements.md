@@ -9,4 +9,4 @@ Based on user feedback, the following improvements were made.
 - Enhanced checkout screen.
 - Added consistent icon sizes.
 - Improved navigation flow.
-- Increased accessibility.
+- Increased accessibility
