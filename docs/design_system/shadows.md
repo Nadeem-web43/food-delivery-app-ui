@@ -60,4 +60,4 @@ Opacity
 
 Blur
 
-18
+18.
