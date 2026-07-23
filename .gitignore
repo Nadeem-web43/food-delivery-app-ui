@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Figma exports
+*.tmp
+
+# Log files
+*.log
+
+# Node modules (if used later)
+node_modules/
+
+# Environment files
+.env
+
+# Build folders
+build/
+dist/
+
+# OS generated files
+Desktop.ini
