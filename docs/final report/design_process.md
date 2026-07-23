@@ -10,4 +10,4 @@ The project followed the UI/UX design process:
 6. High-Fidelity UI Design
 7. Prototype Development
 8. Usability Testing
-9. Final Improvements
+9. Final Improvements.

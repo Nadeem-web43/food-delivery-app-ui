@@ -15,4 +15,4 @@ This project was developed as part of the CodeZoner UI/UX Internship to demonstr
 - Design a simple and modern interface.
 - Improve user experience.
 - Create reusable UI components.
-- Develop a professional mobile application prototype.
+- Develop a professional mobile-application prototype.
