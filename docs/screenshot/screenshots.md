@@ -30,4 +30,4 @@ PNG
 
 ## Purpose
 
-These screenshots document the final UI screens created during the design process.
+These screenshots document the final UI screen created during the design process.
