@@ -56,4 +56,4 @@ Profile
 
 ↓
 
-Logout
+Logout.
