@@ -13,4 +13,4 @@ High-fidelity wireframes closely represent the final design with colors, typogra
 - Typography
 - Buttons
 - Cards
-- Navigation Bar
+- Navigation Bar.
