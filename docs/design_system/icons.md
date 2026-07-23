@@ -32,4 +32,4 @@ Icons Used
 
 • Orders
 
-• Logout
+• Logout.
