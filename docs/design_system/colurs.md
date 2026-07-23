@@ -68,4 +68,4 @@ HEX: #F44336
 Usage
 - Invalid Login
 - Failed Payment
-- Error Messages
+- Error Messages.
